@@ -1,5 +1,6 @@
+/* https://mhnpd.github.io/react-loader-spinner/docs/intro/ */
+/* npm install react-loader-spinner --save */
 import { Audio, Radio, Bars, CirclesWithBar, ColorRing, Comment, ProgressBar, ThreeDots, Vortex, RotatingLines } from 'react-loader-spinner'
-
 function App() {
     return (
         <div className="flex flex-wrap justify-center items-center">
